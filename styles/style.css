@@ -111,7 +111,7 @@
   font-weight: normal;
 }
 
-.two-columns__parargaph:last-child {
+.two-columns__paragraph:last-child {
   margin: 0;
 }
 
@@ -260,7 +260,7 @@
   top: 0;
   right: -210px;
   z-index: -1;
-  background: url(../images/kaufman-triangle.svg) 100% 100%/ cover no-repeat;
+  background: url(../images/kaufman-triangle.svg) 100% 100%/ contain no-repeat;
 }
 
 .footer {
