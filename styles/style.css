@@ -54,6 +54,10 @@
   color: #2f80ed;
 }
 
+.header__link:hover {
+  opacity: .7;
+}
+
 .header__main-illustration {
   width: 765px;
   height: 608px;
@@ -237,6 +241,10 @@
   color: #2f80ed;
 }
 
+.feynman__link:hover {
+  opacity: .7;
+}
+
 .kaufman {
   padding: 90px 0;
   background-color: #1f1f1f;
@@ -322,6 +330,10 @@
   text-decoration: none;
   color: #fff;
   padding: 0;
+}
+
+.footer__column-link:hover {
+  opacity: .4;
 }
 
 /* .footer__column_content_social {}
