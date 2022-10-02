@@ -52,6 +52,7 @@
 .header__link {
   text-decoration: none;
   color: #2f80ed;
+  transition: opacity .2s linear;
 }
 
 .header__link:hover {
@@ -239,6 +240,7 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  transition: opacity .2s linear;
 }
 
 .feynman__link:hover {
@@ -330,6 +332,7 @@
   text-decoration: none;
   color: #fff;
   padding: 0;
+  transition: opacity .2s linear;
 }
 
 .footer__column-link:hover {
