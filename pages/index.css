@@ -1,8 +1,9 @@
+@import url(../vendor/normalize.css);
+
 /*Стили для блока pages*/
 @import url(../blocks/page/page.css);
 
 /*Стили для блока header*/
-@import url(../vendor/normalize.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
